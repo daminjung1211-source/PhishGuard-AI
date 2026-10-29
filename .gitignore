@@ -1,0 +1,11 @@
+# Python 가상환경은 GitHub에 올리지 않음
+.venv/
+
+# API 키 같은 비밀 정보를 저장하는 파일
+.env
+
+# Python이 자동으로 만드는 캐시 폴더
+__pycache__/
+
+# Python이 생성하는 컴파일 파일
+*.pyc
